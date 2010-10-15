@@ -13,9 +13,9 @@ Adding the "Clip This" button gives your readers the ability to share your conte
 
 == Installation ==
 
-Extract the zip file and just drop the contents in the wp-content/plugins/clply directory of your WordPress installation, and then activate the Plugin from Plugins page.
+Extract the zip file and just drop the contents in the wp-content/plugins/curateus directory of your WordPress installation, and then activate the Plugin from Plugins page.
 
-You need an account with http://curate.us. When you have signed up for an account, go to http://curate.us/my-clply#mysites and enter your Site URL. Get your Host API key, paste that into the API key box on the Wordpress Curate.Us plugin settings page. From here, you can choose where the button appears, as well as which graphic is displayed.
+You need an account with http://curate.us. When you have signed up for an account, go to http://curate.us/my-curateus#mysites and enter your Site URL. Get your Host API key, paste that into the API key box on the Wordpress Curate.Us plugin settings page. From here, you can choose where the button appears, as well as which graphic is displayed.
 
 If you are creating your own templates, add '<?php _e(clipButton()); ?> where you want the ``Clip This'' button to appear.
 
@@ -29,6 +29,9 @@ Ask us a question!
 
 == Changelog ==
 
+= 1.2 =
+* Fixed typo in installation instructions.
+
 = 1.1 =
 * Update name to Curate.Us
 
@@ -38,6 +41,9 @@ Ask us a question!
 * Copy / Paste interception, requesting user interaction if enabled.
 
 == Upgrade Notice ==
+
+= 1.2 =
+Typo fixed in instructions.
 
 = 1.1 =
 Name change.
