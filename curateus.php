@@ -3,7 +3,7 @@
 Plugin Name: Curate.Us
 Plugin URI: http://curate.us/plugins/wordpress
 Description: This plugin integrates Curate.Us into your blog. Allow your readers to easily create clips and quotes from your posts.
-Version: 1.1
+Version: 1.2
 Author: Kate McKinley <kate@freerangecontent.com>
 Author URI: http://curate.us
 License: Apache License, Version 2.0
